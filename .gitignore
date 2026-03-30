@@ -1,0 +1,82 @@
+# Unity generated
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+MemoryCaptures/
+
+# Unity cache
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS generated
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Build artifacts
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Crash reports
+crashlytics-build.properties
+
+# Third-party Asset Store packages (too large, can be reimported)
+Assets/Hands_Weapons_Animations_Pack_Update/
+Assets/JMO Assets/
+Assets/DreamTeamMobile/
+Assets/NavMeshComponents/
+
+# Binary assets (textures, models, audio — track scripts/scenes only)
+*.png
+*.jpg
+*.jpeg
+*.tga
+*.tiff
+*.bmp
+*.psd
+*.fbx
+*.FBX
+*.obj
+*.OBJ
+*.3ds
+*.dae
+*.blend
+*.wav
+*.mp3
+*.ogg
+*.aiff
+*.mp4
+*.avi
+*.mov
+*.ttf
+*.otf
