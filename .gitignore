@@ -56,7 +56,7 @@ Assets/JMO Assets/
 Assets/DreamTeamMobile/
 Assets/NavMeshComponents/
 
-# Binary assets (textures, models, audio — track scripts/scenes only)
+# Binary assets (textures, models — track scripts/scenes/audio only)
 *.png
 *.jpg
 *.jpeg
@@ -71,10 +71,6 @@ Assets/NavMeshComponents/
 *.3ds
 *.dae
 *.blend
-*.wav
-*.mp3
-*.ogg
-*.aiff
 *.mp4
 *.avi
 *.mov
